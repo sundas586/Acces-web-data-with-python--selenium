@@ -17,6 +17,10 @@
 
 ![5](https://user-images.githubusercontent.com/33677647/202933727-4cf9853a-4164-4742-a2ef-5883820cc3c3.JPG)
 
+![6](https://user-images.githubusercontent.com/33677647/202934575-c8bd3695-ddaf-4a40-998c-e21a5ad8f024.JPG)
+
+As google , facebook etc, provides their own API for us to scrape data in their allowed way. iTS illegal to scrape data from their website with our own made web scrape API
+
 
 
 
