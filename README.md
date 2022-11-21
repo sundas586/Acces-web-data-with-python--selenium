@@ -15,8 +15,7 @@
 
 - now after html string fetched and then parsed like a tree, we need to manupulate that tree (Tree Traversal), using quries
 
-![5](https://user-images.githubusercontent.com/33677647/202933651-0a19977a-c1e7-47fe-9330-629b1d871908.JPG
-
+![5](https://user-images.githubusercontent.com/33677647/202933727-4cf9853a-4164-4742-a2ef-5883820cc3c3.JPG)
 
 
 
