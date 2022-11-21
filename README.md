@@ -13,13 +13,25 @@
 
 ![4](https://user-images.githubusercontent.com/33677647/202933507-6d115c50-2ccb-4bac-aa95-4d8c5f69cbfc.JPG)
 
-- now after html string fetched and then parsed like a tree, we need to manupulate that tree (Tree Traversal), using quries
+- now after html string is fetched and then parsed like a tree, we need to manupulate that tree (Tree Traversal), using quries
+
+here are the example of html trees :
+
+![Example-of-a-HTML-page-A-its-HTML-code-B-and-the-corresponding-data-tree-structure](https://user-images.githubusercontent.com/33677647/203140568-85ce4a3f-9de4-4db1-9e0c-dd2c450eaa42.png)
+![ss](https://user-images.githubusercontent.com/33677647/203140580-7eaeee45-95e5-4cbf-92cf-6c8c1c85c144.png)
+![kjgg](https://user-images.githubusercontent.com/33677647/203140598-5cac7643-65b0-4155-933e-d580b896f541.png)
+![jhfj](https://user-images.githubusercontent.com/33677647/203140602-a6c830b6-fcb8-4935-8950-4224661fd1b4.png)
+![a](https://user-images.githubusercontent.com/33677647/203140605-d5238b38-84a2-4bfd-a697-b6171d8d3e2a.png)
+
 
 ![5](https://user-images.githubusercontent.com/33677647/202933727-4cf9853a-4164-4742-a2ef-5883820cc3c3.JPG)
 
 ![6](https://user-images.githubusercontent.com/33677647/202934575-c8bd3695-ddaf-4a40-998c-e21a5ad8f024.JPG)
 
-As google , facebook etc, provides their own API for us to scrape data in their allowed way. iTS illegal to scrape data from their website with our own made web scrape API
+As google , facebook etc, provides their own API for us to scrape data in their allowed way. iTS illegal to scrape data from their website with our own made web scrape API.
+
+So once we create a tree like structure of our fetched and parse html string, it will be very easy to traverse the html string/ content, as we can ask that give us all the "div" present in content or any else thing.
+
 
 
 
