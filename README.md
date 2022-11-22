@@ -49,3 +49,6 @@ It is better than normal string in python because it has some special functions)
 [Beautiful Soup Documentation, see .contents, .string, .split_string, .children, .parent etc from here](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
 [see .parent, .siblings, .children, .nextchild and .previouschild examples here](https://www.crummy.com/software/BeautifulSoup/bs4/doc/#parents)
+
+- For id use pound symbol "#" --> #mydivID
+- For class use dot symbol "." --> .mydivClass
