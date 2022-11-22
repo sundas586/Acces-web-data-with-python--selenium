@@ -44,4 +44,4 @@ It is better than normal string in python because it has some special functions)
 ![1](https://user-images.githubusercontent.com/33677647/203195652-a2d5843a-1201-474f-9151-adcb57a3cf85.JPG)
 ![2](https://user-images.githubusercontent.com/33677647/203195659-17425156-5571-44cc-93c7-5215be0649ff.JPG)
 
-
+[Beautiful Soup Documentation, see .contents, .string, .split_string, .children, .parent etc from here](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
