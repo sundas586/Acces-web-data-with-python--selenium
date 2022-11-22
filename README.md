@@ -1,4 +1,6 @@
-# Acces-web-data-with-python--selenium
+# Acces-web-data-with-python--beautiful soup
+
+Beautiful Soup is a Python library for pulling data out of HTML and XML files. It works with your favorite parser to provide idiomatic ways of navigating, searching, and modifying the parse tree. It commonly saves programmers hours or days of work.
 
 ![client server](https://user-images.githubusercontent.com/33677647/202933264-b5eeed6e-727c-4e09-a43b-1b78bd0cba24.JPG)
 ![2](https://user-images.githubusercontent.com/33677647/202933279-a5aa80a5-91b8-46c2-8e66-bbd304a0ee35.JPG)
