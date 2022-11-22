@@ -40,8 +40,8 @@ It is better than normal string in python because it has some special functions)
 3_ **Beautiful soup object**.
 4_ Comment
 
-
-
-
+![3](https://user-images.githubusercontent.com/33677647/203195641-b850819f-0686-4af3-8fa3-b4f0c0f424e1.JPG)
+![1](https://user-images.githubusercontent.com/33677647/203195652-a2d5843a-1201-474f-9151-adcb57a3cf85.JPG)
+![2](https://user-images.githubusercontent.com/33677647/203195659-17425156-5571-44cc-93c7-5215be0649ff.JPG)
 
 
