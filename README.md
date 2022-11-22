@@ -8,6 +8,7 @@
 
 - import request----> only brings the content of any HTML web page over internet, it only bring the content and not parse it.
 - import HTML5 ----> will parse the content, so that content can be used by beautiful soup (import bs4).
+                     a parser helps python to fetch html contents easily, best parser for beautiful soup is lxml
 
 - you need fetch HTML content of a website as a string.
 - Request module has a function that can help fetch web content as a string.
