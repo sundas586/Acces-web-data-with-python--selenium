@@ -32,6 +32,15 @@ As google , facebook etc, provides their own API for us to scrape data in their 
 
 So once we create a tree like structure of our fetched and parse html string, it will be very easy to traverse the html string/ content, as we can ask that give us all the "div" present in content or any else thing.
 
+## Commonly used objects in HTML :
+
+1_ **Tags** < >
+2_ **NavigableString** object (A NavigableString object holds the text within an HTML or an XML tag. Sometimes we may need to navigate to other tags or text within an HTML/XML document based on the current text. This is a Python Unicode string with methods for searching and navigation. 
+It is better than normal string in python because it has some special functions)
+3_ **Beautiful soup object**.
+4_ Comment
+
+
 
 
 
